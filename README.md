@@ -1,1 +1,2 @@
 # Hotel-Booking-Analysis
+I have performed EDA on a dataset named Hotel Bookings, which contains details about two types of hotels, first is City Hotels and other is Resort Hotels. The Dataset contained details about customers, their Countries, Their preferred booking Channels, Meal types, etc. First, I cleaned the dataset and then created some visualizations to find Insights and trends in their Bookings, Cancellation and Revenue of both Hotels.
